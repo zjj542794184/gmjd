@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff0c207b-d369-4723-a75d-d6928e002571" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ff0c207b-d369-4723-a75d-d6928e002571" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,20 +23,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/tellhow/index/dao/impl/MainMenuImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22221">
-              <caret line="847" column="50" selection-start-line="847" selection-start-column="50" selection-end-line="847" selection-end-column="50" />
+            <state relative-caret-position="108">
+              <caret line="834" lean-forward="true" selection-start-line="834" selection-end-line="834" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/OfficeDirector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="534" lean-forward="true" selection-start-line="534" selection-end-line="534" />
+            <state relative-caret-position="190">
+              <caret line="537" column="9" lean-forward="true" selection-start-line="537" selection-start-column="9" selection-end-line="537" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -444,7 +442,7 @@
       <workItem from="1565145176078" duration="1211000" />
       <workItem from="1565242815286" duration="1827000" />
       <workItem from="1565249382594" duration="1824000" />
-      <workItem from="1566461828008" duration="1198000" />
+      <workItem from="1566461828008" duration="1416000" />
     </task>
     <task id="LOCAL-00001" summary="guangmingjiedao20190822">
       <created>1566463405587</created>
@@ -453,14 +451,22 @@
       <option name="project" value="LOCAL" />
       <updated>1566463405587</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="guangmingjiedao20190822">
+      <created>1566463567923</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566463567923</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="295713000" />
+    <option name="totallyTimeSpent" value="295931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Capture Tool" order="1" />
@@ -476,7 +482,7 @@
       <window_info anchor="bottom" id="Messages" order="3" weight="0.09751773" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.3285968" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
@@ -705,13 +711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tellhow/index/dao/impl/MainMenuImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22221">
-          <caret line="847" column="50" selection-start-line="847" selection-start-column="50" selection-end-line="847" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/tellhow/wgh/UploadServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3024">
@@ -742,8 +741,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/OfficeDirector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="534" lean-forward="true" selection-start-line="534" selection-end-line="534" />
+        <state relative-caret-position="190">
+          <caret line="537" column="9" lean-forward="true" selection-start-line="537" selection-start-column="9" selection-end-line="537" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/index/dao/impl/MainMenuImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="834" lean-forward="true" selection-start-line="834" selection-end-line="834" />
         </state>
       </provider>
     </entry>
