@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff0c207b-d369-4723-a75d-d6928e002571" name="Default Changelist" comment="guangmingjiedao20190822">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/gmjd_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmjd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/META-INF/gmjd.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/common/util/DateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/common/util/GetReal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/Approval.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/InsertInfoUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/JudgeButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/MoonSummaryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/OfficeDirector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/Operat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/OrderMoonSummary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/ReadDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/Reject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/SelectTaskList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/SubTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/WeekSummaryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/servlet/InfoServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/servlet/ProcessMonitorServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/servlet/TaskAddServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/dailyOffice/service/MemberToDuty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/index/dao/MainMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/index/dao/impl/MainMenuImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/index/dao/impl/MainMenuImplc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/gmjd/com/tellhow/wgh/UploadServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/common/util/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/common/util/GetReal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/Approval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/InsertInfoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/JudgeButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/MoonSummaryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/OfficeDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/Operat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/OrderMoonSummary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/ReadDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/Reject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/SelectTaskList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/SubTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/WeekSummaryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/servlet/InfoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/servlet/ProcessMonitorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/servlet/TaskAddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/dailyOffice/service/MemberToDuty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/index/dao/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/index/dao/impl/MainMenuImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/index/dao/impl/MainMenuImplc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tellhow/wgh/UploadServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/BJCA-UAMS-SDK-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/BaseUtility-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/MSSPProvider-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/QRCode.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/activation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/activemq-core-5.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ant.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/antlr-2.7.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/asm-attrs-1.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/aspectjrt-1.6.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/aspectjweaver-1.6.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/axis-ant.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/axis.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/bonecp-0.7.1.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/catalina-root.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/cglib-nodep-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-codec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-configuration-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-discovery-0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.3.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-io-1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-lang3-3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-lang3-3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/d2sdk-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/eap-cms-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/eap-commons-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/eap-ewebeditor.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/eap-framework-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/eap-ou-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/eap-platform-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/eap-portal-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/eap-ssoclient-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/eap-workflow-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ezmorph-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.2.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.2.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ganymed-ssh2-build210.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/gexin-rp-sdk-base-4.0.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/gexin-rp-sdk-http-4.0.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/gexin-rp-sdk-template-4.0.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/google-collections-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/htmllexer.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/htmlparser.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/httpclient-4.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/httpcore-4.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-annotations-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-core-2.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-core-asl-1.9.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-databind-2.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-module-jaxb-annotations-2.7.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javassist.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jaxrpc.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jboss-as-sprint-int-5.0.0.CR1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jdom-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jedis-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jettison-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jna-4.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/joda-time-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jsch-0.1.51.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/json-20080701.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jspsmart.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jta-1.0.1B.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jta-1_1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jtp2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jxl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/kxml2-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/kxml2-min-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/libthrift-0.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mail.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mssg-framework-1.1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mssg-sign-client-1.1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ojdbc6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org.apache.commons.codec.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org.apache.commons.httpclient.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/org.apache.commons.logging_1.0.4.v200706111724.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/poi-3.7-20101029.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/poi-ooxml-3.7-20101029.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/poi-ooxml-schemas-3.7-20101029.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/poi-scratchpad-3.7-20101029.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/protobuf-java-2.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/saaj.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-api-1.6.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-api-1.7.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-log4j12-1.6.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/slf4j-log4j12-1.7.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/smack.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/smackx.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/snowdrop-vfs.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aop-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aspects-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-context-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-context-support-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-core-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-expression-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-instrument-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-instrument-tomcat-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jms-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-orm-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-oxm-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-struts-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-test-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-web-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-portlet-3.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/sqljdbc4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/standard.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/stax-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/stax-api-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/svnkit-1.9.0-r10609-atlassian-hosted.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/swingx-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/thumbnailator-0.4.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/trilead-ssh2-1.0.0-build221.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ueditor-mini.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/wsdl4j-1.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/wstx-asl-3.2.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/xmlbeans-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/xmlpull-1.1.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/xom-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/xpp3_min-1.1.4c.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/xstream-1.4.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/zxing-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/SubTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6588">
+              <caret line="254" column="45" selection-start-line="254" selection-start-column="45" selection-end-line="254" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tellhow/index/dao/impl/MainMenuImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22221">
+              <caret line="847" column="50" selection-start-line="847" selection-start-column="50" selection-end-line="847" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/OfficeDirector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="526" column="28" lean-forward="true" selection-start-line="526" selection-start-column="28" selection-end-line="526" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tellhow/wgh/UploadServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3024">
+              <caret line="132" selection-start-line="132" selection-end-line="132" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/servlet/TaskAddServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="47" selection-start-column="40" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/InsertInfoUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3267">
+              <caret line="132" column="39" selection-start-line="132" selection-start-column="35" selection-end-line="132" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/Approval.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9450">
+              <caret line="359" column="8" selection-start-line="359" selection-start-column="8" selection-end-line="359" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getdoinglist</find>
+      <find>gettodolist</find>
+      <find>getdoing</find>
+      <find>居委会主任审批</find>
+      <find>社区理长审核</find>
+      <find>居委会主任审</find>
+      <find>社区理长审批</find>
+      <find>repairid</find>
+      <find>sqContent</find>
+      <find>shequ</find>
+      <find>distribute</find>
+      <find>G</find>
+      <find>df.format(new Date())</find>
+      <find>new Date()</find>
+      <find>居委会主任审核</find>
+      <find>bl</find>
+      <find>addLogoInfo</find>
+      <find>获取表单zid：</find>
+      <find>selectB</find>
+      <find>superiorDeptleader</find>
+      <find>gettodo</find>
+      <find>deptname</find>
+      <find>科员</find>
+      <find>insertG</find>
+      <find>居委会主任</find>
+      <find>jwhzrsh</find>
+      <find>科长审核</find>
+      <find>主管领导督办日志</find>
+      <find>办结</find>
+      <find>主任审核</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/servlet/ChooseDeptServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/dailyOffice/service/MemberToDuty.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/index/dao/impl/MainMenuImplc.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/common/util/DateUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/common/util/GetReal.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/servlet/ProcessMonitorServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/index/dao/impl/MainMenuImp.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/ReadDetails.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/JudgeButton.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/Operat.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/index/dao/impl/MainMenuImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/InsertInfoUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/Reject.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/SelectTaskList.java" />
+        <option value="$USER_HOME$/Desktop/光明街道源代码/本地代码/gmjdbsc/src/com/tellhow/wgh/UploadServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/wgh/UploadServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/servlet/TaskAddServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/SubTask.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/Approval.java" />
+        <option value="$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/OfficeDirector.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gmjd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmjd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmjd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmjd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmjd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmjd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tellhow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmjd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tellhow" type="462c0819:PsiDirectoryNode" />
+              <item name="convenienttelephone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmjd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tellhow" type="462c0819:PsiDirectoryNode" />
+              <item name="convenienttelephone" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmjd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tellhow" type="462c0819:PsiDirectoryNode" />
+              <item name="convenienttelephone" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmjd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tellhow" type="462c0819:PsiDirectoryNode" />
+              <item name="wgh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmjd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmjd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tellhow" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmjd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tellhow" type="462c0819:PsiDirectoryNode" />
+              <item name="convenienttelephone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmjd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmjd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tellhow" type="462c0819:PsiDirectoryNode" />
+              <item name="convenienttelephone" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tellhow.index.dao.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaworkplace\gmjd\src\com\tellhow\wgh" />
+      <recent name="E:\ideaworkplace\gmjd\src\com\tellhow\index\dao\impl" />
+      <recent name="E:\ideaworkplace\gmjd\src\com\tellhow\convenienttelephone\service" />
+      <recent name="E:\ideaworkplace\gmjd\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainMenuImpl">
+    <configuration name="MainMenuImp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tellhow.index.dao.impl.MainMenuImp1" />
+      <module name="gmjd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tellhow.index.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainMenuImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tellhow.index.dao.impl.MainMenuImpl" />
+      <module name="gmjd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tellhow.index.dao.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainMenuImpl" />
+        <item itemvalue="Application.MainMenuImp1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff0c207b-d369-4723-a75d-d6928e002571" name="Default Changelist" comment="" />
+      <created>1554710469541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554710469541</updated>
+      <workItem from="1554710471395" duration="629000" />
+      <workItem from="1554772360963" duration="33179000" />
+      <workItem from="1554866845611" duration="16791000" />
+      <workItem from="1554944100206" duration="21403000" />
+      <workItem from="1555031563027" duration="13222000" />
+      <workItem from="1555291081551" duration="14834000" />
+      <workItem from="1555376838460" duration="23115000" />
+      <workItem from="1555462466783" duration="13491000" />
+      <workItem from="1555550492770" duration="89000" />
+      <workItem from="1555553412907" duration="13915000" />
+      <workItem from="1555635382330" duration="20683000" />
+      <workItem from="1555896069945" duration="2896000" />
+      <workItem from="1555911925672" duration="10000" />
+      <workItem from="1556001725573" duration="183000" />
+      <workItem from="1556086525093" duration="11000" />
+      <workItem from="1556086645052" duration="68000" />
+      <workItem from="1556247669434" duration="191000" />
+      <workItem from="1557106369483" duration="110000" />
+      <workItem from="1557107521345" duration="491000" />
+      <workItem from="1557194123773" duration="2512000" />
+      <workItem from="1557207810419" duration="74000" />
+      <workItem from="1557212625107" duration="642000" />
+      <workItem from="1557712821447" duration="60000" />
+      <workItem from="1557733476764" duration="61000" />
+      <workItem from="1557734060876" duration="748000" />
+      <workItem from="1557796501910" duration="673000" />
+      <workItem from="1557810973740" duration="1746000" />
+      <workItem from="1557813302056" duration="358000" />
+      <workItem from="1557814147019" duration="394000" />
+      <workItem from="1557816147969" duration="1520000" />
+      <workItem from="1557905733713" duration="3840000" />
+      <workItem from="1558336755590" duration="454000" />
+      <workItem from="1558595564025" duration="76000" />
+      <workItem from="1559545214189" duration="610000" />
+      <workItem from="1559644371126" duration="2726000" />
+      <workItem from="1559719543142" duration="2629000" />
+      <workItem from="1559723774243" duration="22000" />
+      <workItem from="1559800797863" duration="1060000" />
+      <workItem from="1559801880757" duration="28000" />
+      <workItem from="1559814150147" duration="601000" />
+      <workItem from="1560152896407" duration="395000" />
+      <workItem from="1560154739412" duration="4979000" />
+      <workItem from="1560231992240" duration="23000" />
+      <workItem from="1560242005337" duration="617000" />
+      <workItem from="1560329395896" duration="125000" />
+      <workItem from="1560329622788" duration="488000" />
+      <workItem from="1560741087661" duration="1471000" />
+      <workItem from="1560748164581" duration="3808000" />
+      <workItem from="1560841387679" duration="1529000" />
+      <workItem from="1561019555494" duration="1405000" />
+      <workItem from="1561081139760" duration="531000" />
+      <workItem from="1561355051396" duration="2709000" />
+      <workItem from="1561444211999" duration="6117000" />
+      <workItem from="1561511104068" duration="9690000" />
+      <workItem from="1561625968346" duration="1225000" />
+      <workItem from="1561963994828" duration="12000" />
+      <workItem from="1562134738988" duration="41000" />
+      <workItem from="1562206712924" duration="666000" />
+      <workItem from="1562309990043" duration="4861000" />
+      <workItem from="1562567067143" duration="1776000" />
+      <workItem from="1562733501714" duration="10000" />
+      <workItem from="1562812945561" duration="208000" />
+      <workItem from="1562900644738" duration="1427000" />
+      <workItem from="1563182990641" duration="6048000" />
+      <workItem from="1563242057770" duration="14390000" />
+      <workItem from="1563347796928" duration="24000" />
+      <workItem from="1563867478551" duration="1274000" />
+      <workItem from="1564642781791" duration="10782000" />
+      <workItem from="1564708188394" duration="11988000" />
+      <workItem from="1564997183170" duration="27000" />
+      <workItem from="1565069193603" duration="4751000" />
+      <workItem from="1565141043186" duration="111000" />
+      <workItem from="1565145176078" duration="1211000" />
+      <workItem from="1565242815286" duration="1827000" />
+      <workItem from="1565249382594" duration="1824000" />
+      <workItem from="1566461828008" duration="941000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="295456000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.3144705" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.09751773" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.1301536" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32978722" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.09823183" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Run" order="10" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="guangmingjiedao20190822" />
+    <option name="LAST_COMMIT_MESSAGE" value="guangmingjiedao20190822" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/Operat.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/InsertInfoUtil.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/JudgeButton.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/servlet/ChooseDeptServlet.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/Reject.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/gmjd/com/tellhow/convenienttelephone/service/Approval.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/dailyOffice/service/MemberToDuty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/index/dao/MainMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/common/util/GetReal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5225">
+          <caret line="286" column="15" selection-start-line="286" selection-start-column="15" selection-end-line="286" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/common/util/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4731">
+          <caret line="281" column="27" selection-start-line="281" selection-start-column="27" selection-end-line="281" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1765#1766#0" expanded="true" />
+            <element signature="e#1823#1824#0" expanded="true" />
+            <element signature="e#1895#1896#0" expanded="true" />
+            <element signature="e#1950#1951#0" expanded="true" />
+            <element signature="e#2371#2372#0" expanded="true" />
+            <element signature="e#2423#2424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/index/dao/impl/MainMenuImplc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13205">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#1353#1354#0" expanded="true" />
+            <element signature="e#1407#1408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/gmjd/com/tellhow/index/dao/impl/MainMenuImp.class" />
+    <entry file="file://$USER_HOME$/Desktop/MainMenuImpl.java" />
+    <entry file="file://$USER_HOME$/Desktop/WorkDaoImpl(1).java" />
+    <entry file="file://$USER_HOME$/Desktop/MainMenuImpl(4).java" />
+    <entry file="file://$USER_HOME$/Desktop/MainMenuImpl(1).java" />
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/Operat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4294">
+          <caret line="238" column="25" selection-start-line="238" selection-start-column="25" selection-end-line="238" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/MoonSummaryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/OrderMoonSummary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Approval.java" />
+    <entry file="file://$USER_HOME$/Desktop/光明街道源代码/本地代码/gmjdbsc/src/com/tellhow/convenienttelephone/service/InsertInfoUtil.java" />
+    <entry file="file://$USER_HOME$/Desktop/OfficeDirector.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/ReadDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/JudgeButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1971">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/光明街道源代码/本地代码/gmjdbsc/src/com/tellhow/convenienttelephone/service/SubTask.java" />
+    <entry file="file://$USER_HOME$/Desktop/光明街道源代码/本地代码/gmjdbsc/src/com/tellhow/common/util/LeaderRulls.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/SelectTaskList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1863">
+          <caret line="77" column="56" selection-start-line="77" selection-start-column="56" selection-end-line="77" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/Reject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="86" column="25" selection-start-line="86" selection-start-column="25" selection-end-line="86" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/servlet/ProcessMonitorServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="54" column="43" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/光明街道源代码/本地代码/gmjdbsc/src/com/tellhow/wgh/UploadServlet.java" />
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet.jar!/javax/servlet/Servlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet.jar!/javax/servlet/GenericServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="74" column="25" selection-start-line="74" selection-start-column="25" selection-end-line="74" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/javax.servlet.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5306">
+          <caret line="56" column="47" lean-forward="true" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/SubTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6588">
+          <caret line="254" column="45" selection-start-line="254" selection-start-column="45" selection-end-line="254" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/index/dao/impl/MainMenuImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22221">
+          <caret line="847" column="50" selection-start-line="847" selection-start-column="50" selection-end-line="847" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/wgh/UploadServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3024">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/servlet/TaskAddServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="47" selection-start-column="40" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/InsertInfoUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3267">
+          <caret line="132" column="39" selection-start-line="132" selection-start-column="35" selection-end-line="132" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/Approval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9450">
+          <caret line="359" column="8" selection-start-line="359" selection-start-column="8" selection-end-line="359" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tellhow/convenienttelephone/service/OfficeDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="526" column="28" lean-forward="true" selection-start-line="526" selection-start-column="28" selection-end-line="526" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>gmjd</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
